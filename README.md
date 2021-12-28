@@ -6,8 +6,8 @@ For efficient post disaster road network extraction, we design a temporal attent
 
 ## Dataset
 - Training set<br>
-  Pre disaster images: road extraction challenge of [DeepGlobe 2018](https://arxiv.org/pdf/1805.06561.pdf)
-  Post disaster images: fake post disaster set (noise + road extraction challenge of [DeepGlobe 2018](https://arxiv.org/pdf/1805.06561.pdf))
+  Pre disaster images: road extraction challenge of [DeepGlobe 2018](https://arxiv.org/pdf/1805.06561.pdf)<br>
+  Post disaster images: fake post disaster set (noise + road extraction challenge of [DeepGlobe 2018](https://arxiv.org/pdf/1805.06561.pdf))<br>
 - Testing set<br>
   Both pre and post disaster images are downloaded from [Open Data Program](https://www.maxar.com/open-data) available by Maxar.
 
