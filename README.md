@@ -11,6 +11,12 @@ For efficient post disaster road network extraction, we design a temporal attent
 - Testing set<br>
   Both pre and post disaster images are downloaded from [Open Data Program](https://www.maxar.com/open-data) available by Maxar.
 
+## Quick Start
+Run the command<br>
+```
+  python3 main_config.py --config_path config_damagenet.json
+```
+
 ## Acknowledgement
 Parts of our code are borrowed from the following repositories.
 - [Automold](https://github.com/UjjwalSaxena/Automold--Road-Augmentation-Library)
